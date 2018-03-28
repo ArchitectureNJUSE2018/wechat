@@ -1,0 +1,10 @@
+package cn.edu.nju.impl;
+
+import cn.edu.nju.LoggerService;
+
+/**
+ * @author hiki on 2018-03-28
+ */
+
+public class LoggerServiceImpl implements LoggerService {
+}
