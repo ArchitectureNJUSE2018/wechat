@@ -7,8 +7,4 @@ public class EncryptServiceImpl implements EncryptService {
     public Message encrypt(Message object) {
         return null;
     }
-
-    public Message decrypt(Message object) {
-        return null;
-    }
 }

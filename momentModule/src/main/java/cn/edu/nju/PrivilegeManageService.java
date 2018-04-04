@@ -4,4 +4,6 @@ import cn.edu.nju.model.Friend;
 
 public interface PrivilegeManageService {
     boolean judgeFriends(Friend a, Friend b);
+
+    boolean setPermissions();
 }

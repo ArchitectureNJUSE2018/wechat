@@ -7,4 +7,8 @@ public class PrivilegeManagerImpl implements PrivilegeManageService {
     public boolean judgeFriends(Friend a, Friend b) {
         return false;
     }
+
+    public boolean setPermissions() {
+        return false;
+    }
 }
