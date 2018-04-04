@@ -7,13 +7,13 @@ import java.util.List;
 
 
 public interface UserRelationshipService {
-    void addFriend(Friend friend);
+    void add(Friend friend);
 
     void acceptFriend(Friend friend);
 
     List<FriendRequest> friendRequests(Friend friend);
 
-    boolean removeFriend(Friend friend);
+    boolean delete(Friend friend);
 
     List<Friend> viewFriend(Friend friend);
 }

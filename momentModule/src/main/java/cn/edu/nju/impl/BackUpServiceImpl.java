@@ -7,7 +7,8 @@ public class BackUpServiceImpl implements BackUpService {
 
     }
 
-    public void restore() {
+    public void recover() {
 
     }
+
 }

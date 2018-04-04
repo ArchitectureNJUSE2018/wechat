@@ -7,7 +7,9 @@ import cn.edu.nju.UserRelationshipService;
 import java.util.List;
 
 public class UserRelationshipServiceImpl implements UserRelationshipService{
-    public void addFriend(Friend friend) {
+
+    public void add(Friend friend) {
+
     }
 
     public void acceptFriend(Friend friend) {
@@ -18,7 +20,7 @@ public class UserRelationshipServiceImpl implements UserRelationshipService{
         return null;
     }
 
-    public boolean removeFriend(Friend friend) {
+    public boolean delete(Friend friend) {
         return false;
     }
 
