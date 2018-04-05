@@ -5,4 +5,6 @@ package cn.edu.nju;
  */
 
 public interface RiskAssessService {
+
+    void accessRisk();
 }

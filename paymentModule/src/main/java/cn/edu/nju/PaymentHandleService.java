@@ -1,8 +1,10 @@
 package cn.edu.nju;
 
 /**
- * @author hiki on 2018-03-28
+ * @author hiki on 2018-04-05
  */
 
 public interface PaymentHandleService {
+
+    void securityCheck();
 }

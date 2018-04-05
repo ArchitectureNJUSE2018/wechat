@@ -7,4 +7,8 @@ import cn.edu.nju.AccountService;
  */
 
 public class AccountServiceImpl implements AccountService {
+
+    public void management() {
+
+    }
 }
