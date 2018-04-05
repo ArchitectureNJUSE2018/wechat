@@ -3,9 +3,11 @@ package cn.edu.nju.impl;
 import cn.edu.nju.Model.Friend;
 import cn.edu.nju.Model.FriendRequest;
 import cn.edu.nju.UserRelationshipService;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+@Service
 public class UserRelationshipServiceImpl implements UserRelationshipService{
 
     public void add(Friend friend) {
