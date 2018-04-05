@@ -14,12 +14,12 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="9">
-      <module name="chatModule" target="1.5" />
-      <module name="emitterModule" target="1.5" />
-      <module name="momentModule" target="1.5" />
-      <module name="paymentModule" target="1.5" />
-      <module name="userRelationshipModule" target="1.5" />
-      <module name="wechat" target="1.5" />
+      <module name="chatModule" target="1.8" />
+      <module name="emitterModule" target="1.8" />
+      <module name="momentModule" target="1.8" />
+      <module name="paymentModule" target="1.8" />
+      <module name="userRelationshipModule" target="1.8" />
+      <module name="wechat" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
