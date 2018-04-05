@@ -7,4 +7,8 @@ import cn.edu.nju.RiskAssessService;
  */
 
 public class RiskAssessServiceImpl implements RiskAssessService {
+    @Override
+    public void accessRisk() {
+
+    }
 }
